@@ -1,6 +1,7 @@
 # lab07-machine-learning
 
-- Create a brief demo with Teachable Machine!
+1. Create a brief demo with Teachable Machine
+2. Create a program that uses gesture recognition
 
 ## Submission Instructions
 - Create a pull request against this repo
