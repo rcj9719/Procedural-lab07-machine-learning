@@ -4,7 +4,9 @@
   - Go to https://teachablemachine.withgoogle.com/
   - Follow the instrcutions for an Image Project (standard image model)
   - Train a model to recognize something from your webcam
-  - Using p5.js, code some visual that reacts to data from your trained model
+  - Export your model, upload it!
+  - Copy the p5.js code snippet from the export pop-up.
+  - Using [p5.js](https://editor.p5js.org/), code some visual that reacts to data from your trained model
 2. Create a program that uses gesture recognition
 
 ## Submission Instructions
